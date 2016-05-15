@@ -1,7 +1,7 @@
 name: Deraj Fotografie
 favicon: null
-layout_spectrum: 0.16517352336086333
-typography_spectrum: 0.9615514953620732
+layout_spectrum: 1
+typography_spectrum: 0.73948
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.7531991130672395
-  lightness: 0.2637710948474705
-  saturation: 0.8618203003425151
-  rhythmicContrast: 0.6223738447297364
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
