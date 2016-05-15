@@ -1,0 +1,28 @@
+name: Deraj Fotografie
+favicon: null
+layout_spectrum: 0.16517352336086333
+typography_spectrum: 0.9615514953620732
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7531991130672395
+  lightness: 0.2637710948474705
+  saturation: 0.8618203003425151
+  rhythmicContrast: 0.6223738447297364
+purpose: []
